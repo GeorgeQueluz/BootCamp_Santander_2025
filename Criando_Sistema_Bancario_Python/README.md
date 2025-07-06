@@ -13,6 +13,7 @@ Aprimorar habilidades de programação Python e compreender conceitos financeiro
 Problemas com indentação e definição de escopo das variáveis acabaram tomando muito tempo na realização do desafio.
 
 ## Implementações 
+**GeorgeDesafioBancario.py** é o arquivo com o resultado do desafio.
 Utilização do mecanismo **Try - Except** para alterar a maneira do código lidar com os casos de erros de digitação na inclusão de valores nas opções de **saque e depósito**
 
 ## Social
