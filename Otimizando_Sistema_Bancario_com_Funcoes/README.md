@@ -8,10 +8,6 @@
 ## Objetivo
 O objetivo é aprimorar a estrutura e a eficiência do sistema, implementando as operações de depósito, saque e extrato em funções específicas.
 
-
-## Aprendizado 
-Problemas com indentação e definição de escopo das variáveis acabaram tomando muito tempo na realização do desafio.
-
 ## Implementações 
 Utilização do mecanismo **Try - Except** para alterar a maneira do código lidar com os casos de erros de digitação na inclusão de valores nas opções de **saque e depósito**. Na opção de saque o sistema avalia o saldo e exibe mensagem de saldo insuficiente quando necessário.
 
